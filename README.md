@@ -1,5 +1,5 @@
 
-# MusixOn
+# MusicxOn
 # Webster2k22
 Team Name: Trinity
 
